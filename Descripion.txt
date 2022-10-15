@@ -1,0 +1,2 @@
+Bezi asasaf menged new mensefew 
+ This Hospital management  is designed to manage details about patient & doctors . It is designed by using c# .net frame work & mssql endezi belesh description lay askemechew ye github 
