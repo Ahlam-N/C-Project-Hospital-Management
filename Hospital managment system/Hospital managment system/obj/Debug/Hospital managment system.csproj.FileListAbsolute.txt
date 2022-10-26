@@ -1,0 +1,13 @@
+C:\Users\meryem\Documents\GitHub\c-project\Hospital managment system\Hospital managment system\obj\Debug\Hospital managment system.csproj.AssemblyReference.cache
+C:\Users\meryem\Documents\GitHub\c-project\Hospital managment system\Hospital managment system\obj\Debug\Hospital managment system.csproj.SuggestedBindingRedirects.cache
+C:\Users\meryem\Documents\GitHub\c-project\Hospital managment system\Hospital managment system\obj\Debug\Hospital_managment_system.Control.resources
+C:\Users\meryem\Documents\GitHub\c-project\Hospital managment system\Hospital managment system\obj\Debug\Hospital_managment_system.Login_Form.resources
+C:\Users\meryem\Documents\GitHub\c-project\Hospital managment system\Hospital managment system\obj\Debug\Hospital_managment_system.Properties.Resources.resources
+C:\Users\meryem\Documents\GitHub\c-project\Hospital managment system\Hospital managment system\obj\Debug\Hospital managment system.csproj.GenerateResource.cache
+C:\Users\meryem\Documents\GitHub\c-project\Hospital managment system\Hospital managment system\obj\Debug\Hospital managment system.csproj.CoreCompileInputs.cache
+C:\Users\meryem\Documents\GitHub\c-project\Hospital managment system\Hospital managment system\bin\Debug\Hospital managment system.exe.config
+C:\Users\meryem\Documents\GitHub\c-project\Hospital managment system\Hospital managment system\bin\Debug\Hospital managment system.exe
+C:\Users\meryem\Documents\GitHub\c-project\Hospital managment system\Hospital managment system\bin\Debug\Hospital managment system.pdb
+C:\Users\meryem\Documents\GitHub\c-project\Hospital managment system\Hospital managment system\obj\Debug\Hospital managment system.exe
+C:\Users\meryem\Documents\GitHub\c-project\Hospital managment system\Hospital managment system\obj\Debug\Hospital managment system.pdb
+C:\Users\meryem\Documents\GitHub\c-project\Hospital managment system\Hospital managment system\obj\Debug\Hospital_managment_system.loading.resources
